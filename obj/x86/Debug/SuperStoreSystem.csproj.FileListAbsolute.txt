@@ -1,0 +1,45 @@
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.exe
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.pdb
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form1.resources
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Properties.Resources.resources
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csproj.GenerateResource.Cache
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.exe
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.pdb
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form2.resources
+c:\users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form3.resources
+C:\Users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\kk\documents\visual studio 2010\Projects\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form4.resources
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.exe
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.pdb
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.exe
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.pdb
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form1.resources
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form2.resources
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form3.resources
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form4.resources
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Properties.Resources.resources
+C:\Users\CE\Downloads\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csproj.GenerateResource.Cache
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.exe
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.pdb
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.exe
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.pdb
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form1.resources
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form2.resources
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form3.resources
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form4.resources
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Properties.Resources.resources
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csproj.GenerateResource.Cache
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.exe
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.pdb
+H:\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.exe
+H:\SuperStoreSystem\SuperStoreSystem\bin\Debug\SuperStoreSystem.pdb
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csprojResolveAssemblyReference.cache
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form1.resources
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form2.resources
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form3.resources
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Form4.resources
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.Properties.Resources.resources
+H:\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.csproj.GenerateResource.Cache
+C:\Users\kk\Desktop\SuperStoreSystem\SuperStoreSystem\obj\x86\Debug\SuperStoreSystem.login.resources
